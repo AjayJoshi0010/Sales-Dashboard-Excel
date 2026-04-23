@@ -35,14 +35,17 @@ This project focuses on analyzing sales data using Microsoft Excel to generate m
 ---
 
 ## 🔹 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](<img width="956" height="727" alt="Dashboard_view" src="https://github.com/user-attachments/assets/b3a11d93-43f0-4212-8841-96e3b3a59b1e" />
+)
 
 ---
 
 ## 🔹 Key Insights
 - The **Fashion category** generated the highest revenue  
-- **Delhi** emerged as the top-performing city  
+- **Mumbai<img width="897" height="612" alt="monthly_sales_chart" src="https://github.com/user-attachments/assets/939aa70e-4a8f-409d-a1f4-72066552fa8a" />
+** emerged as the top-performing city  
 - Sales showed a consistent growth trend over months  
+<img width="1030" height="682" alt="CategorySales_chart" src="https://github.com/user-attachments/assets/e72962cc-cdca-4787-a6b9-4fbbb7c38398" />
 
 ---
 
@@ -50,6 +53,7 @@ This project focuses on analyzing sales data using Microsoft Excel to generate m
 - Helps businesses identify profitable categories  
 - Supports region-based strategy decisions  
 - Enables tracking of performance trends over time  
+<img width="897" height="612" alt="monthly_sales_chart" src="https://github.com/user-attachments/assets/b2c3dd5f-3d47-4f3a-a48b-4cb3e9e71a1f" />
 
 ---
 
