@@ -41,11 +41,15 @@ This project focuses on analyzing sales data using Microsoft Excel to generate m
 ---
 
 ## 🔹 Key Insights
-- The **Fashion category** generated the highest revenue  
-- **Mumbai<img width="897" height="612" alt="monthly_sales_chart" src="https://github.com/user-attachments/assets/939aa70e-4a8f-409d-a1f4-72066552fa8a" />
-** emerged as the top-performing city  
+- The **Fashion category** generated the highest revenue
+  <img width="1030" height="682" alt="CategorySales_chart" src="https://github.com/user-attachments/assets/f98f83c1-9a56-4ebb-a9e9-5e42cd98f38b" />
+
+- **Mumbai** emerged as the top-performing city
+  <img width="1000" height="663" alt="CitySales_chart" src="https://github.com/user-attachments/assets/eb663f95-5ec8-41f5-a39f-cd43b6262d3a" />
+
 - Sales showed a consistent growth trend over months  
-<img width="1030" height="682" alt="CategorySales_chart" src="https://github.com/user-attachments/assets/e72962cc-cdca-4787-a6b9-4fbbb7c38398" />
+<img width="897" height="612" alt="monthly_sales_chart" src="https://github.com/user-attachments/assets/aef315c1-aaa9-4416-8ce6-0c9b2657e314" />
+
 
 ---
 
@@ -71,7 +75,7 @@ This project focuses on analyzing sales data using Microsoft Excel to generate m
 - `Dashboard_view.png` → Dashboard Screenshot
 - `CategorySales_chart.png` → Sales By Category chart Screenshot
 - `CitySales_chart.png` → Sales by City chart Screenshot
-- `monthly_sales_chart` → Monthly sales trend chart Screenshot
+- `monthly_sales_chart.png` → Monthly sales trend chart Screenshot
 
 ---
 
