@@ -68,7 +68,10 @@ This project focuses on analyzing sales data using Microsoft Excel to generate m
 
 ## 🔹 Project Files
 - `sales_dashboard.xlsx` → Main Excel Dashboard  
-- `dashboard.png` → Dashboard Screenshot  
+- `Dashboard_view.png` → Dashboard Screenshot
+- `CategorySales_chart.png` → Sales By Category chart Screenshot
+- `CitySales_chart.png` → Sales by City chart Screenshot
+- `monthly_sales_chart` → Monthly sales trend chart Screenshot
 
 ---
 
